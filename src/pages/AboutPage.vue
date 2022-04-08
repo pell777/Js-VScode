@@ -5,6 +5,7 @@
         <img class="avatarka" alt="Vue logo" src=".\..\src\assets\ava.png" />
         <h1>Багатов Ахмед</h1>
         <h2>Я НЕ ЗНАЮ</h2>
+        <h3>grgrgr</h3>
         <h2>ББСО-02-19</h2>
       </div>
       <div class="skills">
